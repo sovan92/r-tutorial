@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "1+1",
+    "created" : 1476326825818.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4249267174",
+    "id" : "AB047796",
+    "lastKnownWriteTime" : 1476326849,
+    "last_content_update" : 1476326849917,
+    "path" : "F:/tutorial/first.r",
+    "project_path" : "first.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
